@@ -20,11 +20,11 @@ body { margin: 0; background-color: var(--bg); color: var(--text-main); }
 
 /* ロゴ */
 .logo-icon { 
-    width: 40px; height: 40px; 
+    width: 60px; height: 60px; 
     background: var(--primary-grad); 
     border-radius: 12px; 
     display: flex; align-items: center; justify-content: center; 
-    color: white; font-size: 20px; flex-shrink: 0;
+    color: white; font-size: 30px; flex-shrink: 0;
 }
 
 /* ナビゲーションボタン */
