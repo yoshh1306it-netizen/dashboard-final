@@ -1,5 +1,5 @@
 :root {
-  --primary-grad: linear-gradient(135deg, #9C51FF 100%, #5558FF 0%);
+  --primary-grad: linear-gradient(135deg, #5558FF 0%, #9C51FF 100%);
   --primary: #5D5FEF;
   --bg: #F4F7FE;
   --white: #FFFFFF;
