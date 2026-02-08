@@ -20,7 +20,7 @@ body { margin: 0; background-color: var(--bg); color: var(--text-main); }
 
 /* ロゴ */
 .logo-icon { 
-    width: 47px; height: 47px; 
+    width: 51px; height: 51px; 
     background: var(--primary-grad); 
     border-radius: 12px; 
     display: flex; align-items: center; justify-content: center; 
